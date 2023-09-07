@@ -1,0 +1,16 @@
+{
+  "name": "ele-demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --exec electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
